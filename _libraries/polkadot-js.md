@@ -1,5 +1,5 @@
 ---
-title: polkadot-js
+title: Polkadot.js
 layout: default
 url: https://polkadot.js.org/
 code: https://github.com/polkadot-js/

@@ -6,7 +6,7 @@ layout: home
 # V1
 
 ## Administrative
-- [ ] Setting up the repos
+- [x] Setting up the repos
 - [ ] Defining style guide
 - [ ] Define checklists/quality criteria/inclusion criteria for summarized information
 - [ ] Submission policy
@@ -22,7 +22,7 @@ layout: home
 - [ ] Converse with related teams to surface additional information, get contact information and relevant links
 
 ## Publication
-- [ ] Create website
+- [x] Create website
 - [ ] Ensure design
 - [ ] Field testing
 - [ ] Summary Report
@@ -36,14 +36,13 @@ layout: home
     - [ ] Knowledge Bases
     - [ ] Reports
     - [ ] Research
-    - [ ] Explorers
     - [ ] Grants
 - [ ] Actors & Events
     - [ ] Actors, Service Providers (RPC Infra), Contacts
     - [ ] Events
     - [ ] Discord Server / Communities
 - [ ] Tech & Exploration
-    - [ ] Tools
+    - [ ] Tools, Explorers, Dashboards
     - [ ] Libraries
 - [ ] Standards & Data
     - [ ] Standards
