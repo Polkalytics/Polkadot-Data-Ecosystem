@@ -1,1 +1,5 @@
-https://www.subscan.io/
+---
+title: Subscan
+layout: default
+url: https://www.subscan.io/
+---

@@ -1,1 +1,5 @@
-https://polkassembly.io/
+---
+title: Polkassembly
+layout: default
+url: https://polkassembly.io/
+---

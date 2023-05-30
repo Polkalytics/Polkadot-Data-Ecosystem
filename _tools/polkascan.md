@@ -1,1 +1,5 @@
-https://explorer.polkascan.io/
+---
+title: Polkascan
+layout: default
+url: https://explorer.polkascan.io/
+---

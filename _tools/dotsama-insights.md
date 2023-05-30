@@ -1,2 +1,6 @@
-https://dolpha.com/whales/dot
+---
+title: Dotsama Insights
+layout: default
+url: https://dolpha.com/
+---
 https://twitter.com/Dotsama_ai

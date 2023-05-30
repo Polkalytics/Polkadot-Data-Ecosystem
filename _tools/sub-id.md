@@ -1,1 +1,5 @@
-https://sub.id/
+---
+title: Sub.id
+layout: default
+url: https://sub.id/
+---
