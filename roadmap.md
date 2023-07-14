@@ -1,9 +1,6 @@
 ---
 title: Roadmap
-layout: home
 ---
-
-# V1
 
 ## Administrative
 - [x] Setting up the repos
