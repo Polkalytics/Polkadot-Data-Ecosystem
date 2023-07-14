@@ -1,6 +1,6 @@
 {
-  "label": "Actors & Events",
-  "position": 3,
+  "label": "Standards & Data",
+  "position": 5,
   "className": "hidden",
   "link": {
     "type": "generated-index",

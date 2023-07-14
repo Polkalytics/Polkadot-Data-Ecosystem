@@ -3,6 +3,7 @@
   "position": 2,
   "link": {
     "type": "generated-index",
-    "description": "This chapter highlights basic knowledge, glossary definitions, and research reports."
+    "description": "This chapter highlights basic knowledge, glossary definitions, and research reports.",
+    "slug": "knowledge"
   }
 }
